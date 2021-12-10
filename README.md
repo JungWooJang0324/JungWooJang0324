@@ -12,8 +12,8 @@ public static void main(){
       "- 🌱 I’m currently capable of : Java, Flask, Springboot, SpringFramework, Javascript, Oracle SQL, MySql",
       "- 👯 I’m hopeing to learn : React, AWS, Big Data",
       "- 🤔 I’m looking for help with : Literally Everything 😅",
-      "- 💬 Ask me about":                  "Springboot, SpringFramework, Java, Oracle SQL, MySql, Html.. ",
-      "- 📫 How to reach me:":              "https://github.com/JungWooJang0324",
+      "- 💬 Ask me about : Springboot, SpringFramework, Java, Oracle SQL, MySql, Html.. ",
+      "- 📫 How to reach me: https://github.com/JungWooJang0324"
     );
 }
 
@@ -26,6 +26,9 @@ public static void main(){
 <p align="center">  
   <a href="https://www.instagram.com/ma.lune0324/">
     <img src="https://user-images.githubusercontent.com/93374409/145535554-99aa3b30-4d5e-4b59-a8a7-72f52f938424.png" alt="Juliana instagram" height="30" width="30">
+  </a>
+ <a href="chiang030204@gmail.com">
+    <img src="https://user-images.githubusercontent.com/93374409/145539629-21945bf5-dd6b-4061-afdf-32edb8857d9b.png" alt="Juliana gmail" height="30" width="30">
   </a>
 </p>
 
