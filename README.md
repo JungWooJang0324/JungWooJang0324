@@ -45,8 +45,3 @@ public static void main(){
 
 ----
 
-
-
-Credit: [AnhellO](https://github.com/AnhellO)
-
-Last Edited on: 23/09/2020
