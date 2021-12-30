@@ -8,11 +8,11 @@
 public Class Main{
 public static void main(){
 	System.out.println(
-      "- ⚡ Quick bio: Hi I'm Juliana Jang from Republic of Korea. I'm a  Full stack Web developer"
-      "- 🌱 I’m currently capable of : Java, Flask, Springboot, SpringFramework, Javascript, Oracle SQL, MySql",
-      "- 👯 I’m hopeing to learn : React, AWS, Big Data",
-      "- 🤔 I’m looking for help with : Literally Everything 😅",
-      "- 💬 Ask me about : Springboot, SpringFramework, Java, Oracle SQL, MySql, Html.. ",
+      "- ⚡ Quick bio: Hi I'm Juliana Jang from Republic of Korea. I'm a  Full stack Web developer" +
+      "- 🌱 I’m currently capable of : Java, Flask, Springboot, SpringFramework, Javascript, Oracle SQL, MySql"+
+      "- 👯 I’m hopeing to learn : React, AWS, Big Data"+
+      "- 🤔 I’m looking for help with : Literally Everything 😅"+
+      "- 💬 Ask me about : Springboot, SpringFramework, Java, Oracle SQL, MySql, Html.. "+
       "- 📫 How to reach me: https://github.com/JungWooJang0324"
     );
 }
